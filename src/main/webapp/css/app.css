@@ -1,0 +1,13 @@
+.left-footer{
+    position: fixed;
+    bottom: 0;
+    left: 15px;
+    z-index: 500;
+}
+
+.scroll {
+    position: relative;
+    height: auto;
+    max-height: 300px;
+    overflow-y: scroll;
+}
